@@ -14,6 +14,7 @@
 - https://github.com/jtheoof/swappy
 - https://github.com/bugaevc/wl-clipboard
 - https://github.com/BirdeeHub/nixCats-nvim
+- https://github.com/folke/snacks.nvim
 
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/un/unzip/package.niX
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/tr/tree/package.nix
