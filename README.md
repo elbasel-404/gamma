@@ -20,3 +20,6 @@
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/tr/tree/package.nix
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/wg/wget/package.nix
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/gr/grimblast/package.nix
+
+## Build
+- https://github.com/katspaugh/wavesurfer.js
