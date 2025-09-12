@@ -2,7 +2,18 @@
 # [β](https://github.com/elbasel-404/beta)
 # [γ](https://github.com/elbasel-404/gamma)
 
+## Build
+- https://github.com/katspaugh/wavesurfer.js
+- https://github.com/hoppscotch/hoppscotch
+
+## Learn
+- https://github.com/jlevy/the-art-of-command-line
+- https://github.com/kubernetes/kubernetes
+- https://github.com/mermaid-js/mermaid
+- https://github.com/grafana/grafana
+
 ## Operate
+- https://github.com/coder/code-server?
 - https://github.com/ranger/ranger
 - https://github.com/deluge-torrent/deluge
 - https://github.com/FFmpeg/FFmpeg
@@ -20,6 +31,3 @@
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/tr/tree/package.nix
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/wg/wget/package.nix
 - https://github.com/NixOS/nixpkgs/blob/nixos-25.05/pkgs/by-name/gr/grimblast/package.nix
-
-## Build
-- https://github.com/katspaugh/wavesurfer.js
